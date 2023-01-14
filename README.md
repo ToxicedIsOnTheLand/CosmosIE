@@ -1,5 +1,6 @@
 # CosmosIE (Cosmos Image Effects) Public Release.
 ![CosmosIE](https://media.discordapp.net/attachments/1058436364296781914/1058437313300009100/CosmosImageEffectLOGO.png)
+![Release](https://media.discordapp.net/attachments/1059870151719268422/1063728105736376330/Release.png)
 Cosmos Image Effects licensed under [Creative Commons BY-SA-NC](https://github.com/ToxicedIsOnTheLand/CosmosIE/blob/main/LICENSE) owned by [CosmosEffects](https://cosmosai.net/ie/) of [CosmosAI Services.](https://cosmosai.net/cube/) All Rights Reserved.
 ## Discord Servers
 [Cosmos AI](https://cosmosai.net/ie/discord)
