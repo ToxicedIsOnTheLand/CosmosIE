@@ -8,4 +8,4 @@ Cosmos Image Effects licensed under [Creative Commons BY-SA-NC](https://github.c
 [Cosmos Effects](https://cosmosai.net/cube/discord)
 ## BETA Branch
 This is a Branch for testing, Everything is not final.
-*May get mistaken for [Release](https://github.com/ToxicedIsOnTheLand/CosmosIE/tree/release)*
+*May get mistaken for [Release](https://github.com/ToxicedIsOnTheLand/CosmosIE/tree/release)* and [NEW Beta](https://github.com/ToxicedIsOnTheLand/CosmosIE/tree/new)
