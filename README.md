@@ -6,5 +6,5 @@ Cosmos Image Effects licensed under [Creative Commons BY-SA-NC](https://github.c
 
 [Cosmos Effects](https://cosmosai.net/cube/discord)
 ## RELEASE Branch
-This is the Branch for Final Updates. Everything is permanent or temporary.
+This is the Branch for Final Updates, Everything is permanent or temporary.
 *May get mistaken for [Beta](https://github.com/ToxicedIsOnTheLand/CosmosIE/tree/beta)*
