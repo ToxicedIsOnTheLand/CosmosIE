@@ -1,0 +1,12 @@
+| Version | Licensed           |
+| ------- | ------------------ |
+| v8.5.0  | :white_check_mark: |
+| v8.0.0  | :white_check_mark: |
+| v7.0.0  | :white_check_mark: |
+| v6.0.0  | :white_check_mark: |
+| v5.0.0  | :x:                |
+| v4.0.0  | :x:                |
+| v3.0.0  | :x:                |
+| v2.0.0  | :x:                |
+| v1.5.0  | :x:                |
+| v1.0.0  | :x:                |
