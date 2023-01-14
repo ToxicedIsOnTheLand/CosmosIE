@@ -1,0 +1,234 @@
+{
+  "Name": "3DCosmosAI",
+  "Effects": [
+    {
+      "$type": "DrawTextEx",
+      "Text": "Purchase a Cosmos Cube!",
+      "Placement": "BottomRight",
+      "Offset": "0, 0",
+      "Angle": 0,
+      "AutoHide": true,
+      "Font": "Arial Rounded MT Bold, 22.2pt",
+      "Color": "126, 56, 237",
+      "UseGradient": false,
+      "Gradient": {
+        "Type": "Horizontal",
+        "Colors": [
+          {
+            "Color": "255, 3, 135",
+            "Location": 0.0
+          },
+          {
+            "Color": "255, 143, 3",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Outline": false,
+      "OutlineSize": 5,
+      "OutlineColor": "235, 0, 0",
+      "OutlineUseGradient": false,
+      "OutlineGradient": {
+        "Type": "Horizontal",
+        "Colors": [
+          {
+            "Color": "255, 3, 135",
+            "Location": 0.0
+          },
+          {
+            "Color": "255, 143, 3",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Shadow": false,
+      "ShadowOffset": "0, 5",
+      "ShadowColor": "125, 0, 0, 0",
+      "ShadowUseGradient": false,
+      "ShadowGradient": {
+        "Type": "Horizontal",
+        "Colors": [
+          {
+            "Color": "0, 187, 138",
+            "Location": 0.0
+          },
+          {
+            "Color": "0, 105, 163",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Enabled": false,
+      "Name": "optional"
+    },
+    {
+      "$type": "RoundedCorners",
+      "CornerRadius": 5,
+      "Enabled": true
+    },
+    {
+      "$type": "DrawImage",
+      "ImageLocation": "%UserProfile%\\Downloads\\CosmosAI.png",
+      "Placement": "TopLeft",
+      "Offset": "0, 0",
+      "SizeMode": "AbsoluteSize",
+      "Size": "300, 50",
+      "RotateFlip": "None",
+      "Tile": false,
+      "AutoHide": true,
+      "InterpolationMode": "HighQualityBicubic",
+      "CompositingMode": "SourceOver",
+      "Opacity": 100,
+      "Enabled": true
+    },
+    {
+      "$type": "Canvas",
+      "Margin": "5, 0, 5, 0",
+      "MarginMode": "AbsoluteSize",
+      "Color": "Transparent",
+      "Enabled": true
+    },
+    {
+      "$type": "Canvas",
+      "Margin": "0, 5, 0, 5",
+      "MarginMode": "AbsoluteSize",
+      "Color": "Transparent",
+      "Enabled": true
+    },
+    {
+      "$type": "DrawBackground",
+      "Color": "0, 0, 0",
+      "UseGradient": true,
+      "Gradient": {
+        "Type": "ForwardDiagonal",
+        "Colors": [
+          {
+            "Color": "126, 56, 237",
+            "Location": 0.0
+          },
+          {
+            "Color": "237, 120, 16",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Enabled": true
+    },
+    {
+      "$type": "DrawText",
+      "Text": "This is Owned by CosmosAI Services%nCreative Commons Licensed - Free to Distribute",
+      "Placement": "BottomRight",
+      "Offset": "5, 5",
+      "AutoHide": true,
+      "TextFont": "Arial, 11.25pt",
+      "TextRenderingMode": "SystemDefault",
+      "TextColor": "235, 235, 235",
+      "DrawTextShadow": true,
+      "TextShadowColor": "Black",
+      "TextShadowOffset": "-1, -1",
+      "CornerRadius": 4,
+      "Padding": "5, 5, 5, 5",
+      "DrawBorder": true,
+      "BorderColor": "Black",
+      "BorderSize": 1,
+      "DrawBackground": true,
+      "BackgroundColor": "42, 47, 56",
+      "UseGradient": false,
+      "Gradient": {
+        "Type": "Vertical",
+        "Colors": [
+          {
+            "Color": "68, 120, 194",
+            "Location": 0.0
+          },
+          {
+            "Color": "13, 58, 122",
+            "Location": 50.0
+          },
+          {
+            "Color": "6, 36, 78",
+            "Location": 50.0
+          },
+          {
+            "Color": "23, 89, 174",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Enabled": true,
+      "Name": "readme"
+    },
+    {
+      "$type": "DrawText",
+      "Text": "Made by ToxicedLOL#2010%nFor CosmosAI Services%nMade in December 29th%nVersion 6 - CC License",
+      "Placement": "BottomLeft",
+      "Offset": "5, 5",
+      "AutoHide": true,
+      "TextFont": "Arial, 11.25pt",
+      "TextRenderingMode": "SystemDefault",
+      "TextColor": "235, 235, 235",
+      "DrawTextShadow": true,
+      "TextShadowColor": "Black",
+      "TextShadowOffset": "-1, -1",
+      "CornerRadius": 4,
+      "Padding": "5, 5, 5, 5",
+      "DrawBorder": true,
+      "BorderColor": "Black",
+      "BorderSize": 1,
+      "DrawBackground": true,
+      "BackgroundColor": "42, 47, 56",
+      "UseGradient": false,
+      "Gradient": {
+        "Type": "Vertical",
+        "Colors": [
+          {
+            "Color": "68, 120, 194",
+            "Location": 0.0
+          },
+          {
+            "Color": "13, 58, 122",
+            "Location": 50.0
+          },
+          {
+            "Color": "6, 36, 78",
+            "Location": 50.0
+          },
+          {
+            "Color": "23, 89, 174",
+            "Location": 100.0
+          }
+        ]
+      },
+      "Enabled": false,
+      "Name": "detail"
+    },
+    {
+      "$type": "RoundedCorners",
+      "CornerRadius": 6,
+      "Enabled": true
+    },
+    {
+      "$type": "Shadow",
+      "Opacity": 0.6,
+      "Size": 20,
+      "Darkness": 0.0,
+      "Color": "255, 255, 255",
+      "Offset": "0, 0",
+      "Enabled": true
+    },
+    {
+      "$type": "Shadow",
+      "Opacity": 0.6,
+      "Size": 20,
+      "Darkness": 0.0,
+      "Color": "255, 255, 255",
+      "Offset": "0, 0",
+      "Enabled": true
+    },
+    {
+      "$type": "AutoCrop",
+      "Sides": "Top, Bottom, Left, Right",
+      "Enabled": true
+    }
+  ]
+}
