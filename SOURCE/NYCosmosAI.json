@@ -63,7 +63,7 @@
     },
     {
       "$type": "DrawText",
-      "Text": "Happy New Years 2023!",
+      "Text": "Happy New Years 2024!",
       "Placement": "TopRight",
       "Offset": "5, 5",
       "AutoHide": false,
