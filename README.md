@@ -5,3 +5,5 @@ Cosmos Image Effects licensed under [Creative Commons BY-SA-NC](https://github.c
 [Cosmos AI](https://cosmosai.net/ie/discord)
 
 [Cosmos Effects](https://cosmosai.net/cube/discord)
+## BETA Branch
+This is a Branch for testing. Everything is not final.
