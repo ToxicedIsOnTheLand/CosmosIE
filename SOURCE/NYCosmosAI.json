@@ -164,7 +164,7 @@
     },
     {
       "$type": "DrawText",
-      "Text": "This is Owned by CosmosAI Services%nCreative Commons Licensed - Free to Distribute",
+      "Text": "This is Owned by CosmosAI Services%nCreative Commons Licensed - Free to re-Distribute",
       "Placement": "BottomRight",
       "Offset": "5, 5",
       "AutoHide": true,
@@ -208,7 +208,7 @@
     },
     {
       "$type": "DrawText",
-      "Text": "Made by ToxicedLOL#2010%nFor CosmosAI Services%nMade in December 29th%nVersion 6 - CC License",
+      "Text": "Made by ToxicedLOL#2010%nFor CosmosAI Services%nMade in December 29th%nVersion 8 - CC License",
       "Placement": "BottomLeft",
       "Offset": "5, 5",
       "AutoHide": true,
