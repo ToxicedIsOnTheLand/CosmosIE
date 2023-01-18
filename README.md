@@ -15,3 +15,25 @@ CosmosIE © 2022 by CosmosEffects is licensed under [Attribution-NonCommercial-S
 **THIS BRANCH IS FOR MAKING NEW IMAGE EFFECTS AND WILL NOT BE OFFICIALLY APART OF BETA AND RELEASE UNTIL FINISHED**
 
 *May get mistaken for [Beta](https://github.com/ToxicedIsOnTheLand/CosmosIE/tree/beta) and [Release](https://github.com/ToxicedIsOnTheLand/CosmosIE/tree/release)*
+
+## Social Medias
+
+### ToxicedLOL / ToxicedIsOnTheLand 
+
+[![github](https://img.shields.io/badge/Github%20-FFFFFF?style=flat&logo=github&logoColor=black)](https://github.com/ToxicedIsOnTheLand)
+
+[![subscribe](https://img.shields.io/badge/subscribe%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ToxicedLOL?sub-confirmation=1)
+
+[![twitter](https://img.shields.io/badge/Twitter%20-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ActualToxicityy)
+
+[![twitch](https://img.shields.io/badge/Twitch%20-FFFFFF?style=flat&logo=twitch&logoColor=6441a5)](https://m.twitch.tv/toxicedlol)
+
+[![steam](https://img.shields.io/badge/Steam%20-FFFFFF?style=flat&logo=steam&logoColor=black)](https://steamcommunity.com/profiles/76561199237882707)
+
+[![reddit](https://img.shields.io/badge/Reddit%20-ED001C?style=flat&logo=reddit&logoColor=FF5700)](https://www.reddit.com/u/ToxicedLOL)
+
+### Slick Torpedo / Philip Ehrbright
+
+[![subscribe](https://img.shields.io/badge/subscribe%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@slicktorpedo4420?sub_confirmation=1)
+
+[![github](https://img.shields.io/badge/Github%20-FFFFFF?style=flat&logo=github&logoColor=black)](https://github.com/SlickTorpedo)
