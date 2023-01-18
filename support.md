@@ -9,7 +9,7 @@ ShareX Support
 
 AmogOS - **Not Supported** *(Not Tested)*
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) Ubuntu OS - **Not Supported**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) Ubuntu OS - **Not Supported** *(Not Tested)*
 
 CosmOS - **Not Supported** *(Not Tested)*
 
@@ -26,7 +26,7 @@ CosmosIE Support
 
 AmogOS - **Not Supported** *(Not Tested)*
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) Ubuntu OS - **Not Supported**
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) Ubuntu OS - **Not Supported** *(Not Tested)*
 
 CosmOS - **Not Supported** *(Not Tested)*
 
