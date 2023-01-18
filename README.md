@@ -1,5 +1,5 @@
 # CosmosIE (Cosmos Image Effects) Public Release.
-**Only on** ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat&logo=windows&logoColor=white) **or higher Exclusive**
 
 ![CosmosIE2](https://img.shields.io/badge/CosmosIE-Released%20-success?style=plastic&logo=windows)
 ![CosmosIE](https://media.discordapp.net/attachments/1058436364296781914/1058437313300009100/CosmosImageEffectLOGO.png)
