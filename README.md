@@ -34,6 +34,8 @@ This is the Branch for Final Updates, Everything is permanent or temporary.
 
 [![reddit](https://img.shields.io/badge/Reddit%20-ED001C?style=flat&logo=reddit&logoColor=FF5700)](https://www.reddit.com/u/ToxicedLOL)
 
+[![discord](https://img.shields.io/badge/Discord%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/732955234489466951)
+
 ### Slick Torpedo / Philip Ehrbright
 [![subscribe](https://img.shields.io/badge/subscribe%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@slicktorpedo4420?sub_confirmation=1)
 
