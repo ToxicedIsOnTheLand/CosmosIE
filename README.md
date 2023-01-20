@@ -24,7 +24,7 @@ This is the Branch for Final Updates, Everything is permanent or temporary.
 ### ToxicedLOL / ToxicedIsOnTheLand 
 [![github](https://img.shields.io/badge/Github%20-FFFFFF?style=flat&logo=github&logoColor=black)](https://github.com/ToxicedIsOnTheLand)
 
-[![subscribe](https://img.shields.io/badge/subscribe%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ToxicedLOL?sub-confirmation=1)
+[![subscribe](https://img.shields.io/badge/subscribe%20-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ToxicedIsHere?sub-confirmation=1)
 
 [![twitter](https://img.shields.io/badge/Twitter%20-00acee?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ActualToxicityy)
 
