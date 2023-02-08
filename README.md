@@ -9,7 +9,7 @@ CosmosIE © 2022 by CosmosEffects is licensed under [Attribution-NonCommercial-S
 ### Downloads
 - Download version 7 at the [CosmosAI.net IE Website](https://cosmosai,net/ie)
 - Download version 8 latest at [**`ddccec6`**](https://github.com/ToxicedIsOnTheLand/CosmosIE/releases/tag/v8.0.0) and click CosmosIE,zip
-- ~~Download version XXX unknown at [our website](https://cosmoseffects.github.io/xxx/)~~ | Download currently does not exist and this will be a placeholder.
+- Download version 8 latest at [our website](https://cosmoseffects.github.io/download/v8)
 ## Discord Servers
 [Cosmos AI](https://cosmosai.net/ie/discord)
 
